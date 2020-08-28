@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "FrontAngularGestionProduit"
+    }
+  },
+  "defaultProject": "FrontAngularGestionProduit",
+  "cli": {
+    "analytics": "27c001cf-686d-4b21-be70-ed2b34905137"
+  }
 }
